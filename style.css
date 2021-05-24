@@ -1,0 +1,58 @@
+
+
+body{
+    padding: 520px;
+    padding-top: 10px;
+
+}
+.header {
+    background-color: #f44336;
+    padding: 30px 40px;
+    color: rgb(238, 146, 146);
+    text-align: center;
+  }
+  .addBtn {
+    padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    margin: 10px;
+  }
+  #Btn{
+    padding-right: 10px;
+    background: #d9d9d9;
+    color: #555;
+    float: center;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+
+  ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+  }
+
+  .donelist{
+      text-decoration: line-through;
+  }
+
